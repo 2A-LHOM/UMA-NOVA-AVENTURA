@@ -1,0 +1,28 @@
+body{
+    background: rgb(219, 46, 219);
+    font-family: "Roboto", sans-serif;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background: rgb(100, 100, 235);
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+.passo.ativo{
+    display: block;
+}
+.passo{
+    display: none;
+}
+main{
+    max-width: center;
+}
+img{
+    max-width: 90%;
+}
